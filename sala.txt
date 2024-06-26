@@ -1,0 +1,6 @@
+Sala 3d;100;A;10;1
+Sala 3dx;80;B;8;2
+Sala 3xdx;120;C;12;3
+Sala 6d;150;D;15;4
+Sala 3dx;90;E;9;5
+Salinha;32;a;3;6

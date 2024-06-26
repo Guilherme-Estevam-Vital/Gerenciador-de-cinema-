@@ -1,0 +1,5 @@
+Classicos;2024-06-17 15:00:00;1
+Pipocando;2024-06-17 18:00:00;2
+Tela quente ;2024-06-18 14:00:00;3
+Sessao infantil;2024-06-18 17:30:00;4
+Sessao da tarde;2024-06-19 20:00:00;5

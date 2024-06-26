@@ -1,0 +1,9 @@
+/*Cliente cliente = new Cliente("Guilherme", "32190837123","Guileher@gmail.com");
+        Cinema cinema = new Cinema("Flamboyant");
+        Sala sala = new Sala("Sala 3d",32,"A", 1);
+        cinema.adicionarSala(sala);
+        Filme filme = new Filme("Um sonho de liberdade", 2.5f);
+        LocalDateTime date = LocalDateTime.of(2024,6,12,22,0);
+        Sessao sessao = new Sessao("Sessao das 22:00",date,filme,cinema,sala);
+        Bilhete bilhete = new Bilhete(1,cliente,sessao);
+        System.out.println(bilhete.mostrarInformacoes());;*/

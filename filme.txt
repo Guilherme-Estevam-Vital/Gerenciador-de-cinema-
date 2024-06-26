@@ -1,0 +1,5 @@
+A espera de um milagre;120.5;1;
+Um sonho de liberdade;105.2;2;
+A lista de Schindler;110.0;3;
+O resgate do soldado Ryan;95.8;4;
+Pulp Fiction;130.3;5;
